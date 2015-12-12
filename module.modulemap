@@ -1,0 +1,6 @@
+module CGmp [system] {
+	header "/usr/include/gmp.h"
+	link "gmp"
+	export *
+}
+

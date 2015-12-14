@@ -1,4 +1,4 @@
-module CGmp [system] {
+module CGMP [system] {
 	header "/usr/include/x86_64-linux-gnu/gmp.h"
 	link "gmp"
 	export *
